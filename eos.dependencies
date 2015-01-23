@@ -1,0 +1,8 @@
+[
+ {
+   "remote":      "github",
+   "repository":  "Euphoria-OS-Legacy/android_hardware_samsung",
+   "target_path": "hardware/samsung",
+   "revision":    "lollipop"
+ }
+]
